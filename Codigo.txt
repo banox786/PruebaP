@@ -2,4 +2,8 @@ public class Vertice{
  private int dato;
 private Vertice sig;
 
+public Vertice(){
+bhdsnjdsc
+}
+
 }
