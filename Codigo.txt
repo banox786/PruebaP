@@ -1,3 +1,5 @@
 public class Vertice{
-int dato;
+ private int dato;
+private Vertice sig;
+
 }
