@@ -4,6 +4,7 @@ private Vertice sig;
 
 public Vertice(){
 bhdsnjdsc
+me equivoque
 }
 
 }
